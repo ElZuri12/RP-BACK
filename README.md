@@ -9,7 +9,6 @@ Este proyecto es una aplicación backend desarrollada en Django y Django REST Fr
 - [Características Principales](#características-principales)
 - [Rutas API](#rutas-api)
 - [Autenticación](#autenticación)
-- [Contribución](#contribución)
 
 ---
 
@@ -71,7 +70,7 @@ RP-BACK/ 🏠
 
 ---
 
-## Rutas API 📡
+## Rutas API
 
 ### Endpoints Principales:
 - **Usuarios** 👤:
@@ -93,7 +92,7 @@ Consulta los archivos `routes.py` en cada aplicación para más detalles.
 
 ---
 
-## Autenticación 🔐
+## Autenticación
 
 El proyecto utiliza **JWT** para la autenticación. Los tokens se manejan a través de **cookies seguras**:
 
